@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @yourrbrotherr
+- 👋 Hi, I’m Vishal Raj
 - 👀 I’m interested in programming and other than this cycling
 - 🌱 I’m currently learning Web Designing and Development
-- 💞️ I’m looking to collaborate on linkin and github
+- 💞️ I’m looking to collaborate on linkIn and github
 - 📫 How to reach me emailo- vishalrajv1624@gmail.com
 
 <!---
